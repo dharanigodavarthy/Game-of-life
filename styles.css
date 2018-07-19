@@ -1,0 +1,31 @@
+body {
+    background: #ddd;
+}
+
+.chessboard {
+    display: inline-block;
+}
+
+.grey {
+    background: grey;
+    display: inline-block;
+    width: 18px;
+    height: 18px;
+}
+
+.white {
+    background: white;
+    display: inline-block;
+    width: 18px;
+    height: 18px;
+}
+
+#board {
+    height: 640px;
+    width: 640px;
+}
+
+.row {
+    width: 640px;
+}
+
